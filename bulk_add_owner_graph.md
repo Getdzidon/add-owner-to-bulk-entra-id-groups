@@ -26,6 +26,8 @@ It includes steps to install PowerShell 7, required modules, preparing your CSV,
 - The user you want to add as owner must exist in Entra ID  
 - PowerShell 7 recommended for latest Graph SDK support  
 
+Note: You will need to authenticate with your Azure admin account when connecting to Microsoft Graph.
+
 ---
 
 ## Install PowerShell 7
